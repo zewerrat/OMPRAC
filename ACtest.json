@@ -5,11 +5,6 @@
 			"CarModel": "ks_ferrari_488_gt3",
 			"Timestamp": 2840081,
 			"LapTime": 1393502,
-			"Sectors": [
-				1317192,
-				40472,
-				35838
-			],
 			"Cuts": 0,
 			"BallastKG": 0,
 			"Tyre": "S",
