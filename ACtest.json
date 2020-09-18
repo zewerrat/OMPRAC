@@ -1,12 +1,3 @@
 	{
-			"DriverName":  "/\\/\\-/\\/-X",
-			"DriverGuid": "76561198016284301",
-			"CarId": 3,
-			"CarModel": "ks_ferrari_488_gt3",
-			"Timestamp": 2840081,
-			"LapTime": 1393502,
-			"Cuts": 0,
-			"BallastKG": 0,
-			"Tyre": "S",
-			"Restrictor": 0
-		},
+			"DriverGuid": "76561198016284301"
+		}
